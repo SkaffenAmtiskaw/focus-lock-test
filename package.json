@@ -11,9 +11,13 @@
     "test": "ava"
   },
   "dependencies": {
+    "@wedgekit/button": "^2.0.0",
+    "@wedgekit/color": "^4.5.2",
+    "@wedgekit/utils": "^0.3.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-focus-lock": "^2.6.0",
+    "react-focus-on": "^3.5.4",
     "styled-components": "4.3.1"
   },
   "devDependencies": {
